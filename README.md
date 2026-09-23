@@ -1,3 +1,6 @@
+
+
+![Smart Glove Project](images/imgGlove1.jpeg)
 # 🧤 Smart Glove – Sign Language Translator
 
 A smart glove fitted with 5 flex sensors connected to an **ESP32** microcontroller. The glove reads finger movement, sends the readings over **WiFi** to a **FastAPI** server running a trained **Machine Learning model (Random Forest)**, and gets back the matching word/sentence in sign language.
